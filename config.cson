@@ -1,0 +1,25 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 16
+    softTabs: false
+    softWrap: true
+    tabLength: 6
+    tabType: "soft"
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "5754d4b6-34a6-b1cc-1f0f-3de2ee390655"
+  minimap:
+    plugins:
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false
+".angular.html.text":
+  editor:
+    tabLength: 4

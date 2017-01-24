@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/55/44mlkb596z9gn4f0vtbtvqqw0000gr/T/d-117024-59380-9hsvsr/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/55/44mlkb596z9gn4f0vtbtvqqw0000gr/T/d-117024-59380-9hsvsr/package.tgz",
+        "spec": "/private/var/folders/55/44mlkb596z9gn4f0vtbtvqqw0000gr/T/d-117024-59380-9hsvsr/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/55/44mlkb596z9gn4f0vtbtvqqw0000gr/T/apm-install-dir-117024-59380-a5lfjf"
+    ]
+  ],
+  "_from": "../d-117024-59380-9hsvsr/package.tgz",
+  "_id": "goto-last-edit@0.3.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/goto-last-edit",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/55/44mlkb596z9gn4f0vtbtvqqw0000gr/T/d-117024-59380-9hsvsr/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/55/44mlkb596z9gn4f0vtbtvqqw0000gr/T/d-117024-59380-9hsvsr/package.tgz",
+    "spec": "/private/var/folders/55/44mlkb596z9gn4f0vtbtvqqw0000gr/T/d-117024-59380-9hsvsr/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117024-59380-9hsvsr/package.tgz",
+  "_shasum": "5c33411aa801f888a8f264100e556bca2c61f6fd",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/55/44mlkb596z9gn4f0vtbtvqqw0000gr/T/d-117024-59380-9hsvsr/package.tgz",
+  "_where": "/private/var/folders/55/44mlkb596z9gn4f0vtbtvqqw0000gr/T/apm-install-dir-117024-59380-a5lfjf",
+  "bugs": {
+    "url": "https://github.com/plrenaudin/goto-last-edit/issues"
+  },
+  "dependencies": {},
+  "description": "Move the cursor to the last edited element",
+  "devDependencies": {
+    "coffeelint": "^1.9.7"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/plrenaudin/goto-last-edit#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/goto-last-edit",
+  "name": "goto-last-edit",
+  "optionalDependencies": {},
+  "readme": "# goto-last-edit package\nThis package keeps track of the edits location and allows you to move back and forward in the edits history\n\nMove the cursor to the last edit position when you type `ctrl+i`\n\nMove the cursor to the next edit position when you type `ctrl+alt+i`\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plrenaudin/goto-last-edit.git"
+  },
+  "version": "0.3.2"
+}
