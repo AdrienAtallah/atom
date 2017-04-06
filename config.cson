@@ -2,10 +2,10 @@
   core:
     telemetryConsent: "no"
   editor:
-    fontSize: 16
+    showIndentGuide: true
     softTabs: false
     softWrap: true
-    tabLength: 6
+    tabLength: 4
     tabType: "soft"
     zoomFontWhenCtrlScrolling: true
   "exception-reporting":
